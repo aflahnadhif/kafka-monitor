@@ -5,7 +5,7 @@
 # --- Secrets and Sensitive Files ---
 # CRITICAL: Exclude the entire directory containing your SSL keys,
 # certificates, and any password files.
-/keys/
+/keys/artifacts
 *.key
 *.pem
 *.crt
